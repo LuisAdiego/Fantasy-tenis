@@ -1,0 +1,357 @@
+jugador_id,nombre,pais,mano,altura
+100644,Alexander Zverev,GER,R,198.0
+102093,Martin Damm,USA,L,203.0
+103499,Aqeel Khan,PAK,R,
+104527,Stan Wawrinka,SUI,R,183.0
+104792,Gael Monfils,FRA,R,193.0
+104925,Novak Djokovic,SRB,R,188.0
+105138,Roberto Bautista Agut,ESP,R,183.0
+105173,Adrian Mannarino,FRA,L,180.0
+105227,Marin Cilic,CRO,R,198.0
+105278,Alexis Klegou,BEN,U,
+105477,Marco Trungelliti,ARG,R,178.0
+105526,Jan Lennard Struff,GER,R,193.0
+105583,Dusan Lajovic,SRB,R,183.0
+105613,Norbert Gombos,SVK,R,193.0
+105714,Hugo Nys,MON,R,185.0
+105732,Pierre Hugues Herbert,FRA,R,188.0
+105777,Grigor Dimitrov,BUL,R,191.0
+105806,Mirza Basic,BIH,R,188.0
+105807,Pablo Carreno Busta,ESP,R,188.0
+105870,Yannick Hanfmann,GER,R,193.0
+105902,James Duckworth,AUS,R,183.0
+105916,Marton Fucsovics,HUN,R,188.0
+105932,Nikoloz Basilashvili,GEO,R,185.0
+105948,Federico Coria,ARG,R,180.0
+105985,Darian King,BAR,R,188.0
+106000,Damir Dzumhur,BIH,R,175.0
+106041,Stefan Micov,MKD,R,
+106109,Alex Bolt,AUS,L,183.0
+106148,Roberto Carballes Baena,ESP,R,183.0
+106186,Jason Kubler,AUS,R,178.0
+106198,Hugo Dellien,BOL,R,180.0
+106218,Marcos Giron,USA,R,180.0
+106232,Roberto Cid,DOM,R,193.0
+106329,Thiago Monteiro,BRA,L,183.0
+106331,Christopher Oconnell,AUS,R,183.0
+106401,Nick Kyrgios,AUS,R,193.0
+106415,Yoshihito Nishioka,JPN,L,170.0
+106421,Daniil Medvedev,RUS,R,198.0
+106423,Thanasi Kokkinakis,AUS,R,193.0
+106426,Cristian Garin,CHI,R,185.0
+111190,Zhizhen Zhang,CHN,R,193.0
+111200,Elias Ymer,SWE,R,185.0
+111202,Hyeon Chung,KOR,R,188.0
+111442,Jordan Thompson,AUS,R,183.0
+111455,Wayne Montgomery,RSA,R,
+111456,Mackenzie Mcdonald,USA,R,178.0
+111460,Quentin Halys,FRA,R,191.0
+111513,Laslo Djere,SRB,R,188.0
+111575,Karen Khachanov,RUS,R,198.0
+111576,Sumit Nagal,IND,R,178.0
+111581,Michael Mmoh,USA,R,188.0
+111794,Kamil Majchrzak,POL,R,180.0
+111797,Nicolas Jarry,CHI,R,201.0
+111815,Cameron Norrie,GBR,L,188.0
+118808,Daniel Vallejo,MEX,R,
+121411,Moez Echargui,TUN,R,178.0
+122298,Botic Van De Zandschulp,NED,R,191.0
+122330,Alexander Bublik,KAZ,R,196.0
+122570,Mubarak Shannan Zayid,QAT,R,
+122649,Photos Photiades,CYP,R,
+122669,Juan Pablo Varillas,PER,R,185.0
+123315,Nicholas Campbell,CYP,R,
+123828,Jan Choinski,GBR,R,196.0
+123961,Murkel Alejandro Dellien Velasco,BOL,R,193.0
+124079,Pedro Martinez,ESP,R,185.0
+124116,Sebastian Ofner,AUT,R,191.0
+124186,Alexandre Muller,FRA,R,183.0
+124187,Reilly Opelka,USA,R,211.0
+126094,Andrey Rublev,RUS,R,188.0
+126127,Benjamin Bonzi,FRA,R,183.0
+126128,Roman Safiullin,RUS,R,185.0
+126129,Billy Harris,GBR,R,193.0
+126203,Taylor Fritz,USA,R,196.0
+126205,Tommy Paul,USA,R,185.0
+126207,Frances Tiafoe,USA,R,188.0
+126214,Alejandro Tabilo,CHI,L,188.0
+126239,Arthur Rinderknech,FRA,R,196.0
+126340,Viktor Durasovic,NOR,R,185.0
+126409,Hugo Grenier,FRA,R,196.0
+126504,Andrea Pellegrino,ITA,R,185.0
+126535,Carlos Taberner,ESP,R,183.0
+126555,Tung Lin Wu,TPE,R,188.0
+126610,Matteo Berrettini,ITA,R,196.0
+126762,Aleksandre Bakshi,GEO,L,180.0
+126774,Stefanos Tsitsipas,GRE,R,193.0
+126846,Aleksandar Vukic,AUS,R,188.0
+126939,Khumoun Sultanov,UZB,R,180.0
+126952,Soon Woo Kwon,KOR,R,180.0
+126964,Vitaliy Sachko,UKR,R,188.0
+127108,Igor Ribeiro Marcondes,BRA,U,
+127157,Daniel Altmaier,GER,R,188.0
+128034,Hubert Hurkacz,POL,R,196.0
+129814,Ivan Ivanov,BUL,R,
+131934,Andrea Vavassori,ITA,R,193.0
+132283,Lorenzo Sonego,ITA,R,191.0
+132686,Nuno Borges,POR,R,185.0
+133297,Yosuke Watanuki,JPN,R,180.0
+133430,Denis Shapovalov,CAN,L,185.0
+133975,Benjamin Hassan,LBN,R,183.0
+134770,Casper Ruud,NOR,R,183.0
+134840,Raul Brancaccio,ITA,R,185.0
+134868,Tallon Griekspoor,NED,R,188.0
+144642,Tomas Barrios Vera,CHI,R,191.0
+144684,Alex Molcan,SVK,L,178.0
+144719,Jaume Munar,ESP,R,183.0
+144814,Eero Vasa,FIN,R,185.0
+144817,Marc Andrea Huesler,SUI,L,196.0
+144869,Tomas Martin Etcheverry,ARG,R,196.0
+144870,Federico Agustin Gomez,ARG,R,191.0
+144895,Corentin Moutet,FRA,L,180.0
+144997,Yannick Languina,SEN,U,
+149282,Nicolai Budkov Kjaer,NOR,R,188.0
+200000,Felix Auger Aliassime,CAN,R,193.0
+200005,Ugo Humbert,FRA,L,188.0
+200008,Alexis Galarneau,CAN,R,180.0
+200045,Anthony Susanto,INA,R,
+200059,Yibing Wu,CHN,R,183.0
+200096,Dragos Nicolae Madaras,SWE,L,191.0
+200116,Camilo Ugo Carabelli,ARG,R,185.0
+200153,Yacoub Makzoume,SYR,R,
+200175,Miomir Kecmanovic,SRB,R,183.0
+200221,Alejandro Davidovich Fokina,ESP,R,183.0
+200240,Vit Kopriva,CZE,R,178.0
+200259,Ugo Blanchet,FRA,R,175.0
+200267,Zizou Bergs,BEL,R,185.0
+200270,Alex Knaff,LUX,R,193.0
+200273,Hady Habib,LIB,R,188.0
+200282,Alex De Minaur,AUS,R,183.0
+200297,Aziz Ouakaa,TUN,R,185.0
+200384,Hugo Gaston,FRA,L,173.0
+200416,August Holmgren,DEN,R,188.0
+200436,Zsombor Piros,HUN,R,180.0
+200443,Adam Walton,AUS,R,183.0
+200473,Valentin Vacherot,MON,R,193.0
+200514,Jurij Rodionov,AUT,L,191.0
+200516,Patrick Kypson,USA,R,188.0
+200538,Matyas Fuele,HUN,R,180.0
+200550,Vladyslav Orlov,UKR,R,188.0
+200572,Nick Hardt,DOM,R,185.0
+200615,Alexei Popyrin,AUS,R,196.0
+200624,Sebastian Korda,USA,R,196.0
+200647,Sho Shimabukuro,JPN,R,180.0
+200711,Nicolas Mejia,COL,R,183.0
+200748,Andres Andrade,ECU,R,180.0
+202058,Thiago Agustin Tirante,ARG,R,185.0
+202075,Adria Soriano Barrera,COL,R,191.0
+202103,Francisco Cerundolo,ARG,R,185.0
+202104,Sebastian Baez,ARG,R,170.0
+202120,Rowland Phillips,JAM,R,
+202127,Clement Tabur,FRA,R,173.0
+202146,Luka Pavlovic,FRA,R,196.0
+202261,Otto Virtanen,FIN,R,193.0
+202262,Filip Cristian Jianu,ROU,R,180.0
+202269,Justin Barki,INA,R,178.0
+202290,Dhakshineswar Suresh,IND,R,193.0
+202335,Raphael Calzi,LUX,R,180.0
+202356,Tsung Hao Huang,TPE,R,173.0
+202358,Chun Hsin Tseng,TPE,R,175.0
+202385,Jenson Brooksby,USA,R,188.0
+202475,Philip Henning,RSA,R,
+205734,Thiago Seyboth Wild,BRA,R,185.0
+206173,Jannik Sinner,ITA,R,191.0
+206307,Joao Lucas Reis Da Silva,BRA,R,178.0
+206499,Aleksandar Kovacevic,USA,R,183.0
+206589,Gabi Adrian Boitan,ROU,R,185.0
+206600,Zura Tkemaladze,GEO,R,188.0
+206681,Fabian Marozsan,HUN,R,193.0
+206909,Brandon Nakashima,USA,R,188.0
+207129,Yanki Erel,TUR,L,178.0
+207130,Matias Soto,CHI,R,170.0
+207134,Fitriadi M Rifqi,INA,R,175.0
+207182,Emilio Nava,USA,R,185.0
+207220,Taha Baadi,CAN,R,183.0
+207352,Bu Yunchaokete,CHN,R,185.0
+207368,Mert Alkaya,TUR,U,
+207411,Jesper De Jong,NED,R,180.0
+207494,Dalibor Svrcina,CZE,R,178.0
+207502,Stefan Palosi,ROU,R,180.0
+207518,Lorenzo Musetti,ITA,R,185.0
+207608,Timofey Skatov,KAZ,R,175.0
+207669,Robert Strombachs,LAT,R,191.0
+207678,Juan Manuel Cerundolo,ARG,L,183.0
+207680,Facundo Diaz Acosta,ARG,L,183.0
+207681,Francisco Comesana,ARG,R,178.0
+207686,Alexander Shevchenko,KAZ,R,185.0
+207733,Jack Draper,GBR,L,193.0
+207799,Matheus Pucinelli De Almeida,BRA,R,183.0
+207830,Tomas Machac,CZE,R,183.0
+207836,Muzammil Murtaza,PAK,R,
+207841,Muhammad Shoaib,PAK,U,
+207925,Flavio Cobolli,ITA,R,183.0
+207985,Jacob Fearnley,GBR,R,183.0
+207989,Carlos Alcaraz,ESP,R,183.0
+208010,Pablo Llamas Ruiz,ESP,R,188.0
+208013,Dane Sweeny,AUS,R,170.0
+208014,Rinky Hijikata,AUS,R,178.0
+208021,Kyrian Jacquet,FRA,R,178.0
+208071,Oleksii Krutykh,UKR,R,185.0
+208103,Jiri Lehecka,CZE,R,185.0
+208118,Eliot Spizzirri,USA,R,183.0
+208119,Liam Draxl,CAN,R,185.0
+208134,Luca Nardi,ITA,R,185.0
+208169,Titouan Droguet,FRA,R,191.0
+208182,Saba Purtseladze,GEO,R,191.0
+208197,Ammar Elamin,IRL,R,185.0
+208210,Chris Rodesch,LUX,R,198.0
+208223,Alvaro Guillen Meza,ECU,R,175.0
+208233,Mattia Bellucci,ITA,L,175.0
+208260,Zachary Svajda,USA,R,175.0
+208278,Shintaro Mochizuki,JPN,R,175.0
+208286,Matteo Arnaldi,ITA,R,185.0
+208293,Gonzalo Bueno,PER,R,173.0
+208316,Valentin Royer,FRA,R,188.0
+208353,Francesco Maestrelli,ITA,R,196.0
+208361,Gustavo Heide,BRA,R,191.0
+208363,Mariano Navone,ARG,R,178.0
+208364,Franco Roncadelli,URU,L,185.0
+208518,Hazem Naw,SYR,R,183.0
+208659,Giovanni Mpetshi Perricard,FRA,R,203.0
+208843,Jerome Kym,SUI,R,198.0
+208852,Stefanos Sakellaridis,GRE,R,196.0
+208859,Francesco Passaro,ITA,R,180.0
+208882,Roman Andres Burruchaga,ARG,R,183.0
+208937,Kasidit Samrej,THA,R,191.0
+209070,Arthur Cazaux,FRA,R,183.0
+209080,Blaise Bicknell,JAM,R,191.0
+209098,Hamad Medjedovic,SRB,R,188.0
+209113,Gabriel Diallo,CAN,R,203.0
+209147,Vilius Gaubas,LTU,R,178.0
+209167,Olle Wallin,SWE,U,
+209191,Oleksandr Ovcharenko,UKR,R,185.0
+209209,Filip Misolic,AUT,R,180.0
+209226,Adolfo Daniel Vallejo,PAR,R,183.0
+209246,Alan Magadan,MEX,U,
+209259,Arthur Fery,GBR,R,175.0
+209260,Luciano Darderi,ITA,R,183.0
+209262,Tristan Schoolkate,AUS,R,183.0
+209278,Alec Beckley,RSA,R,183.0
+209279,Terence Atmane,FRA,L,193.0
+209284,Elmer Moller,DEN,R,183.0
+209294,Diego Duran,ESA,U,
+209394,Anton Shepp,NZL,U,
+209403,Faris Zakaryia,EGY,R,185.0
+209409,Coleman Wong,HKG,R,191.0
+209414,Luca Van Assche,FRA,R,178.0
+209857,Leandro Riedi,SUI,R,191.0
+209860,Ignacio Buse,PER,R,185.0
+209866,Karlis Ozolins,LAT,R,196.0
+209868,Kaipo Marshall,BAR,R,
+209874,Maks Kasnikowski,POL,R,180.0
+209875,Alex Barrena,ARG,R,175.0
+209903,Lukas Neumayer,AUT,R,183.0
+209911,Guy Den Ouden,NED,R,183.0
+209916,Marko Topo,GER,R,185.0
+209920,Raphael Collignon,BEL,R,191.0
+209950,Arthur Fils,FRA,R,185.0
+209957,Jack Pinnington Jones,GBR,R,180.0
+209971,Michael Bassem Sobhy,EGY,R,
+209976,Dino Prizmic,CRO,R,188.0
+209983,Mika Brunold,SUI,R,191.0
+209992,Juncheng Shang,CHN,L,180.0
+210012,Henrique Rocha,POR,R,180.0
+210017,Daniel Merida Aguilar,ESP,R,188.0
+210025,Branko Djuric,SRB,R,188.0
+210091,Filip Pieczonka,POL,L,
+210097,Ben Shelton,USA,L,193.0
+210107,Bor Artnak,SLO,R,193.0
+210116,Michael Zheng,USA,R,188.0
+210119,Andrej Nedic,BIH,R,185.0
+210136,Mark Lajal,EST,R,191.0
+210150,Jakub Mensik,CZE,R,193.0
+210178,Juan Carlos Prado Angelo,BOL,R,185.0
+210188,Petar Jovanovic,MNE,U,
+210202,Rodrigo Pacheco Mendez,MEX,L,188.0
+210220,Edas Butvilas,LTU,R,191.0
+210252,Seydina Andre,SEN,U,
+210262,Jaime Faria,POR,R,188.0
+210274,Sebastian Dominko,SLO,L,203.0
+210319,Ethan Quinn,USA,R,191.0
+210338,Arthur Gea,FRA,R,180.0
+210382,Maximus Jones,THA,R,185.0
+210389,Toby Samuel,GBR,R,191.0
+210456,Karim Ibrahim,EGY,U,
+210460,Nishesh Basavareddy,USA,R,180.0
+210464,Darwin Blanch,USA,L,185.0
+210476,Enmanuel Munoz,DOM,U,
+210506,Alex Michelsen,USA,R,193.0
+210510,Lautaro Midon,ARG,U,
+210530,Learner Tien,USA,L,180.0
+210536,Rei Sakamoto,JPN,R,193.0
+210645,Ofek Shimanov ,ISR,U,
+210648,Aleksa Krivokapic,MNE,U,
+210683,Peter Buldorini,ITA,R,183.0
+210686,Michael Agwi,IRL,R,193.0
+210687,Pawit Sornlaksup,THA,U,
+210696,Alexander Blockx,BEL,R,191.0
+210721,Iliyan Radulov,BUL,R,187.0
+210727,Taym Al Azmeh,GER,U,
+210730,Reda Bennani,MAR,R,
+210731,Filip Jeff Planinsek,SLO,R,
+210748,Federico Cina,ITA,R,183.0
+211514,Justin Engel,GER,U,
+211533,Gianluca Cadenasso ,ITA,R,178.0
+211558,Karim Bennani,MAR,U,
+211617,Maxim Mrva,CZE,U,
+211651,Alexander Vasilev,BUL,U,
+211663,Joao Fonseca,BRA,R,185.0
+211670,Marko Mesarovic,USA,U,
+211707,Amit Vales,ISR,U,
+211767,James Watt,NZL,R,206.0
+212021,Martin Landaluce,ESP,R,191.0
+212051,Joaquin  Aguilar Cardozo ,URU,U,
+212063,Matej Dodig,CRO,R,188.0
+212171,Nicolas Jadoun,FRA,U,
+212190,Karol Filar,POL,U,
+212200,Amar Huseinovic,MKD,U,
+212207,Ognjen Milic,SRB,U,
+212216,Trevor Svajda,USA,R,175.0
+212219,Mees Rottgering,NED,L,180.0
+212225,Thomas Faurel,FRA,U,
+212244,Gabriel Ghetu,ROU,R,
+212256,Colton Smith,USA,U,
+212268,Max Schoenhaus,GER,U,
+212275,Thijs Boogaard,NED,R,
+212309,Diego Dedura Palomero,GER,L,178.0
+212533,Markus Molder,EST,U,
+212588,Rafael Jodar,ESP,U,
+212720,Juan Carlos Fuentes Vasquez,ESA,U,
+212725,Alaa Trifi,TUN,U,
+212886,Radu David Turcanu,ROU,L,
+213036,Luis Guto Miguel,BRA,U,
+213177,Siu Chi Nicholas Cheng,HKG,U,
+213358,Codie Schalk Van Schalkwyk,NAM,U,
+213547,Alex Santino Nunez Vera,PRY,U,
+213608,Moise Kouame,FRA,R,
+213713,Melios Efstathiou,CYP,U,
+213725,Patrick Agbo Panzo,BEN,U,
+213731,canice Abua,NGR,U,
+213869,Abdulaziz Usmonjonov,UZB,U,
+213933,Kaan Isak Kosaner,TUR,U,
+213957,Daniel Phillips,BER,U,
+213959,Ilya Ignatov,UZB,U,
+214051,Sten Hiiesalu,EST,U,
+214285,Daniel Adeleye,NGR,U,
+214304,Emilio Camacho,ECU,U,
+214416,Kristijan Janev,MKD,U,
+214417,Konstantinos Megalemos,CYP,U,
+214418,Marko Aleksovski,MKD,U,
+214419,Eriks Valeinis,LAT,U,
+214420,Noah Koffi,TOG,U,
+214421,Kwami Stanislas Dussey,TOG,U,
+214422,Jean Paul Kadangah Kili,TOG,U,
+214423,Steyn Dippenaar,NAM,U,
+214424,Ruben Yssel,NAM,U,
+214425,Yannik Alvarez,PUR,U,
+900000,Yi Zhou,,,
